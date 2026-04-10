@@ -30,20 +30,28 @@ MOBILE_PRICE_PREDICTION/
 ├── main.ipynb             # File nghiên cứu và phân tích
 ├── requirements.txt       # Danh sách thư viện cài đặt
 └── README.md              # Hướng dẫn dự án
+```
+
+---
 
 ## 💻 Hướng dẫn cài đặt và chạy
 1. **Clone dự án:**
    ```bash
    git clone [https://github.com/TranGiaHy/mobile-price-prediction.git](https://github.com/TranGiaHy/mobile-price-prediction.git)
    cd mobile-price-prediction
+   ```
 
 2. **Cài đặt thư viện:**
    ```bash
    pip install -r requirements.txt
+   ``` 
 
 3. **Chạy ứng dụng:**
    ```bash
    streamlit run app.py
+   ```
+
+---
 
 ## 📝 Tác giả
 TranGiaHy - [https://github.com/TranGiaHy](https://github.com/TranGiaHy)
@@ -56,7 +64,6 @@ Link github: [https://github.com/TranGiaHy](https://github.com/TranGiaHy)
 ---
 
 ### 💡 Lưu ý quan trọng cho file `requirements.txt`:
-Vì bạn đã bổ sung nhiều thư viện mới (`seaborn`, `matplotlib`, `scikit-learn`), hãy cập nhật file `requirements.txt` của bạn với nội dung sau để người khác có thể cài đặt chính xác:
 
 ```text
 pandas
@@ -65,4 +72,5 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
+```
   
