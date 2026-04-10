@@ -26,9 +26,8 @@ Dự án được xây dựng dựa trên các công nghệ hàng đầu về kh
 MOBILE_PRICE_PREDICTION/
 ├── data/
 │   └── Cellphone.csv      # Tập dữ liệu gốc
-├── streamlit/
-│   └── app.py             # File chạy giao diện chính
-├── main.ipynb             # File nghiên cứu và phân tích (Jupyter)
+├── app.py                 # File chạy giao diện chính
+├── main.ipynb             # File nghiên cứu và phân tích
 ├── requirements.txt       # Danh sách thư viện cài đặt
 └── README.md              # Hướng dẫn dự án
 
