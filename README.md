@@ -53,14 +53,12 @@ MOBILE_PRICE_PREDICTION/
 
 ---
 
+## 📝 Đánh giá mô hình
+Mô hình hiện tại đạt các chỉ số sai số thấp trên tập kiểm tra, cho phép dự đoán khá chính xác các dòng điện thoại tầm trung và cao cấp.
+
 ## 📝 Tác giả
 TranGiaHy - [https://github.com/TranGiaHy](https://github.com/TranGiaHy)
 
-📝 Đánh giá mô hình
-Mô hình hiện tại đạt các chỉ số sai số thấp trên tập kiểm tra, cho phép dự đoán khá chính xác các dòng điện thoại tầm trung và cao cấp.
-
-Tác giả: TranGiaHy
-Link github: [https://github.com/TranGiaHy](https://github.com/TranGiaHy)
 ---
 
 ### 💡 Lưu ý quan trọng cho file `requirements.txt`:
